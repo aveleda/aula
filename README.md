@@ -21,7 +21,7 @@ Estrutura da Aula:
 2. SIMD (Single Instruction, Multiple Data) (5 minutos)
 - Conceito e Funcionamento: Explicar como o SIMD funciona com exemplos práticos (e.g., processamento de gráficos).
 
-3. MIMD (Multiple Instruction, Multiple Data) (10 minutos)
+3. MIMD (Multiple Instruction, Multiple Data) (5 minutos)
 
 a. Arquiteturas MIMD com Memória Compartilhada:
 - Descrição e exemplos práticos, como sistemas multiprocessadores.
@@ -33,14 +33,14 @@ b. Arquiteturas MIMD com Memória Distribuída:
 4. Arquiteturas NUMA (Non-Uniform Memory Access) (5 minutos)
 - Conceito e Vantagens: Explicar como NUMA melhora o acesso à memória em relação a sistemas SMP (Symmetric Multiprocessing).
 
-6. Clusters de Computadores: (15 minutos)
+5. Clusters de Computadores: (15 minutos)
 Introdução aos clusters e sua configuração típica.
 Exemplos de uso em ambientes de pesquisa e corporativos.
 
-7. Redes de Interconexão: (10 minutos)
+6. Redes de Interconexão: (10 minutos)
 Explicação sobre a importância das redes de alta velocidade na comunicação entre nós de um cluster.
 
-8. Sistemas de Arquivos Paralelos (10 minutos)
+7. Sistemas de Arquivos Paralelos (10 minutos)
 
 Conceito e Importância: Explanação sobre como sistemas de arquivos paralelos ajudam no acesso rápido e eficiente a grandes volumes de dados.
 Exemplos de Implementação: Discussão sobre sistemas como Lustre, BeeGFS, GPFS, e seus usos em HPC.
