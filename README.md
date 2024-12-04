@@ -1,6 +1,6 @@
 # Plano de Aula
 
-## Título da Aula: Arquiteturas Paralelas
+## Título: Arquiteturas Paralelas
 
 Duração: 50 minutos
 
