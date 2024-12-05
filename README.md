@@ -50,3 +50,4 @@ b. Arquiteturas MIMD com Memória Distribuída:
 ### Material de Leitura Complementar:
 - An Introduction to Parallel Programming, Peter S. Pacheco. Morgan Kaufmann, 2011.
 - Programação Paralela e Distribuída com MPI, OpenMP e OpenACC para computação de alto desempenho, Gabriel P. Silva, Calebe P. Bianchini, Evaldo B. Costa, Casa do Código, 2022
+- https://frankdenneman.nl/2016/07/06/introduction-2016-numa-deep-dive-series/
